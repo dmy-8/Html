@@ -562,7 +562,7 @@ b,strong {
     border-radius: 999px;
     overflow: hidden;
     width: 100%;
-    max-width: 60px;
+    max-width: 80px;
     display: flex;
     box-shadow: 0 0 0 4px rgba(255,255,255,.25);
     aspect-ratio: 1/1
